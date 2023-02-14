@@ -4,14 +4,14 @@ import About from '../screens/About';
 
 const router = createBrowserRouter([
     {
-        path: "/",
+        path: '/',
         element: <Home />,
     }, {
-        path: "/home",
-        element: <Home />
+        path: '/home',
+        element: <Home />,
     }, {
-        path: "/about",
-        element: <About />,
+        path: '/about',
+        element: <About />
     }
 ])
 

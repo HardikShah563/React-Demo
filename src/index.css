@@ -30,6 +30,10 @@ nav {
   cursor: pointer;
 }
 
+.logo {
+  font-size: 28px;
+}
+
 .text {
   text-align: center;
 }

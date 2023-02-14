@@ -5,7 +5,7 @@ export default function Home() {
     return (
         <>
             <Navbar />
-            <h1 className="text">This is About Section</h1>
+            <h1 className="text">This is About Component</h1>
         </>
     );
 }
